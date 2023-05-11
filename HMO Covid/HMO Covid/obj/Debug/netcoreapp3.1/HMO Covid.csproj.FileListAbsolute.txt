@@ -1,0 +1,39 @@
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\HMO Covid.exe
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\HMO Covid.deps.json
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\HMO Covid.runtimeconfig.json
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\HMO Covid.runtimeconfig.dev.json
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\HMO Covid.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\HMO Covid.pdb
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.AssemblyInfo.cs
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\staticwebassets\HMO Covid.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\staticwebassets\HMO Covid.StaticWebAssets.xml
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\scopedcss\bundle\HMO Covid.styles.css
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.pdb
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.genruntimeconfig.cache
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\user\source\repos\HMO Covid\HMO Covid\obj\Debug\netcoreapp3.1\HMO Covid.MvcApplicationPartsAssemblyInfo.cs
